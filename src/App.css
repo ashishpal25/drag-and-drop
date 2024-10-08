@@ -1,0 +1,13 @@
+.main{
+  display: flex;
+  justify-content: center;
+  gap:20rem;
+  text-align: center;
+}
+.inner{
+  padding: 20px;
+  background-color: antiquewhite;
+  margin: 10px;
+  cursor: move;
+  user-select: none;
+}
