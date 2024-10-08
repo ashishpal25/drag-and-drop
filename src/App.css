@@ -11,3 +11,14 @@
   cursor: move;
   user-select: none;
 }
+
+.delete{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.delete p{
+  background-color: lightcoral;
+  padding: 30px;
+  border-radius: 20%;
+}
